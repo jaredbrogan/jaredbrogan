@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [@jaredbrogan](https://github.com/jaredbrogan)
 
 <!--
 **jaredbrogan/jaredbrogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... a ton of different things
+- 🌱 I’m currently learning ... various things
+- 👯 I’m looking to collaborate on ... whatever I find interesting 😉
+- 🤔 I’m looking for help with ... nothing at the moment
+- 💬 Ask me about ... whatever you want, just don't make it weird please
+- 📫 How to reach me: ... jaredbrogan[at]gmail[dot]com
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I'm right behind you 👀
