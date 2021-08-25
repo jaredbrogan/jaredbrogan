@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jared's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaredbrogan&count_private=true&show_icons=true&hide=issues,contribs)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredbrogan&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Jared's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaredbrogan&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredbrogan" align="right"></span>
 - 🔭 I’m currently working on ... a ton of different things
 - 🌱 I’m currently learning ... various things
 - 👯 I’m looking to collaborate on ... whatever I find interesting 😉
